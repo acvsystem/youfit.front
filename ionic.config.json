@@ -1,0 +1,7 @@
+{
+  "name": "youfit.front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
